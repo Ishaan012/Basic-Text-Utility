@@ -1,4 +1,4 @@
-This is a basic Text Utility app create with the React and is focussed on the use of React components, props, states and handling events.
+This is a basic Text Utility app created with React and is focussed on the use of React components, props, states and handling events.
 This Text Utility can convert entered text into Uppercase or Lowercase. It also provides a text summary consisting of number of characters and words along with read time.
 
 To get the node modules folder, type npm install in console. To run the code type npm start in console.
